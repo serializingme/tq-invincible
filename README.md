@@ -1,4 +1,4 @@
-# TQ-Invincible (Titan Quest, Invincibility Cheat)
+# TQ-Invincible (Titan Quest Invincibility Cheat)
 ## Introduction
 
 This library when injected into Titan Quest (THQ 2006 RPG), will make the players character invulnerable to attack. It should work on all versions since it leverages the game libraries functions. For more detailed information on how it was created, refer to my [blog](https://www.serializing.me/2016/01/23/titan-quest-invincibility-cheat/).
